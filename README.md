@@ -7,6 +7,6 @@
 ![20230625_191548](https://github.com/Ghazal-Jamalzadeh/GymakFlutterApplication/assets/85625209/f8e25f1f-d2ac-477c-ba4a-769f1cd75a39)
 
 در صورت لود نشدن خودکار تصاویر روی لینک های زیر کلیک کنید:
-[Pic 1]([https://pages.github.com/](https://github.com/Ghazal-Jamalzadeh/GymakFlutterApplication/assets/85625209/402747e8-59ff-4c39-b02f-533c6b09d42a)) \
-[Pic 2]([https://pages.github.com/](https://github.com/Ghazal-Jamalzadeh/GymakFlutterApplication/assets/85625209/f8e25f1f-d2ac-477c-ba4a-769f1cd75a39)) \
+[Pic 1]([https://pages.github.com/](https://github.com/Ghazal-Jamalzadeh/GymakFlutterApplication/assets/85625209/402747e8-59ff-4c39-b02f-533c6b09d42a) \
+[Pic 2]([https://pages.github.com/](https://github.com/Ghazal-Jamalzadeh/GymakFlutterApplication/assets/85625209/f8e25f1f-d2ac-477c-ba4a-769f1cd75a39) \
 
